@@ -1,6 +1,6 @@
 using System;
 
-namespace AwesomeDotNetCore
+namespace FavoriteDotNetCore
 {
     internal class Program
     {
